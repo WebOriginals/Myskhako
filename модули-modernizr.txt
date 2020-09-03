@@ -1,0 +1,22 @@
+Touch Events - touchevents
+CSS Calc - csscalc
+Flexbox - flexbox
+Flexbox (legacy) -  flexboxlegacy  (старый)
+
+Flex Line Wrapping - flexwrap
+CSS vh unit - cssvhunit
+Итого = 6 шт
+
+
+
+if (Modernizr.flexbox && Modernizr.flexwrap) {
+  // Modern Flexbox with `flex-wrap` supported
+}
+else {
+  // Either old Flexbox syntax, or `flex-wrap` not supported
+}
+
+xl
+lg
+md
+sm
